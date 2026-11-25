@@ -9,9 +9,9 @@ network calls, and always writes the same bytes.
 import os
 
 LINE = (
-    "My smart fridge needs a software update to open the door, "
-    "but still can't update its opinion that my 2 a.m. leftovers "
-    "are a cry for help."
+    "My smart fridge locked the ice maker behind a firmware update, "
+    "then judged my 2 a.m. leftovers like a disappointed parent "
+    "with a camera."
 )
 
 
